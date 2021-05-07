@@ -1,0 +1,14 @@
+/*
+	[0-9]{8,10} - Matches between 8 and 10 numbers.
+*/
+
+
+// Start with 01 
+
+let subject = '01711820236';
+let pattern = '/^01[0-9]{9}$/';
+
+
+
+//9987199871
+var regex = /^[6-9][0-9]{9}$/
